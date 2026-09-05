@@ -2,3 +2,6 @@ this is my file one for git course
 
 
 content added to file one
+some text is written for stashing purpose
+
+
