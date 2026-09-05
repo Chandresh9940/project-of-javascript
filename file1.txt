@@ -3,5 +3,5 @@ this is my file one for git course
 
 content added to file one
 some text is written for stashing purpose
-
+i am writing some msg regarding gitgub
 
